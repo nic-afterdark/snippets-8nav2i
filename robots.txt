@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nic-afterdark.github.io/snippets-8nav2i/sitemap.xml
